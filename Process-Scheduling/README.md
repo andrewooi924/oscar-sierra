@@ -1,5 +1,5 @@
 # User Manual for Scheduling Programs (task1.c, task2.c, task3.c)
-## Author: Ooi Yu Zhang
+Author: Ooi Yu Zhang
 
 # Introduction
 This user instruction manual will state the assumptions made about my interpretation of all the scheduling algorithm's implementation as well as show you how to use the program itself!
