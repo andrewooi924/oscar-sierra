@@ -2,7 +2,6 @@
  *fileutil.c: A multipurpose file utility that can be used to output words from a text file or append words from from one
  *text file to another. The program accepts user-specified numbers for the functions as well.
  *Name: Ooi Yu Zhang
- *Student ID: 32713339
  *Start Date: 19/8/2022
  *Last Modified: 23/8/2022, 6:13p.m.
  */
