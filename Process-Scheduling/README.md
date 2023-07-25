@@ -9,6 +9,8 @@ task1.c is a scheduling program that implements my interpretation of the First C
 task2.c is a scheduling program that implements my interpretation of the Round Robin Scheduling Algorithm with a Time Quantum of 2. 
 task3.c is a scheduling program that implements my interpretation of a Deadline-based Scheduling Algorithm.
 
+
+
 # First Come, First Served Scheduling Algorithm
 ## How it works
 1. The program has a 'time' variable which keeps track of the time elapsed in the program (in seconds). 
@@ -35,6 +37,8 @@ This command will run the scheduling program on the provided sample process data
 
 2. Command: ./task1 <sourcefile>
 This command will run the scheduling program on the user-specified process data file and output a file called 'results-1.txt'. The output file contains information on the wait time and turnarond time of each process in the given file as well as whether each process met their deadlines.
+
+
 
 # Round Robin with Time Quantum 2 Scheduling Algorithm
 ## How it works
@@ -64,6 +68,8 @@ This command will run the scheduling program on the provided sample process data
 
 2. Command: ./task2 <sourcefile>
 This command will run the scheduling program on the user-specified process data file and output a file called 'results-2.txt'. The output file contains information on the wait time and turnarond time of each process in the given file as well as whether each process met their deadlines.
+
+
 
 # Deadline-based Scheduling Algorithm
 ## How it works
